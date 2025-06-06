@@ -1,6 +1,8 @@
 # MedHopQA Orekhovichi Submission
+<p align="center">
+  <img src="IBMC_logo.png" alt="IBMC" width="300"/>
+</p>
 
-![Project Logo](IBMC_logo.png)
 
 A RAG (Retrieval-Augmented Generation) system for medical question answering, featuring a custom BM25S retriever integrated with LangChain.
 
